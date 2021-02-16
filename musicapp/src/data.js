@@ -1,5 +1,7 @@
 import { v4 as uuidv4 } from "uuid";
-function mangoDog() {
+
+
+function MangoDog() {
   return [
     {
       name: "Corner Store",
@@ -65,4 +67,4 @@ function mangoDog() {
   ];
 }
 
-export default chillHop;
+export default MangoDog;
